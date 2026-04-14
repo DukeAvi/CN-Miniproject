@@ -1,4 +1,4 @@
-# Team 12 : Distributed Job Queue Service
+# Team 5 : Distributed Job Queue Service
 
 | Socket-based distributed job queue system for reliable, concurrent task execution. Built for the Computer Networks Miniproject.
 
