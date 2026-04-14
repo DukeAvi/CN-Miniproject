@@ -107,3 +107,8 @@ Communications are JSON encoded strings sent over TCP, generally following this 
 ### Known Limitations
 
 - Uses self-signed certificates.
+
+### Team Members
+- Avrit Sharma — PES2UG24CS100  
+- B Meghana — PES2UG24CS103  
+- Ishanika Vinuthan — PES2UG24CS911  
